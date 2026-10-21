@@ -3,7 +3,9 @@
 > Terraform provisions Artifact Registry + Cloud Run and the Cloud Build permissions; `cloudbuild.yaml` builds, pushes, and deploys on every build.
 > **Author:** Muhammad Ahmad · **IaC:** Terraform · **Cloud:** GCP
 
-![Terraform](https://img.shields.io/badge/Terraform-1.5%2B-7B42BC?logo=terraform&logoColor=white)
+![Terraform CI](https://github.com/AhmadMughal-DS/gcp-cloudbuild-cicd-terraform/actions/workflows/terraform.yml/badge.svg)
+![Terraform](https://img.shields.io/badge/Terraform-1.6%2B-7B42BC?logo=terraform&logoColor=white)
+![Security](https://img.shields.io/badge/scanned-tfsec%20%7C%20checkov-success)
 ![GCP](https://img.shields.io/badge/GCP-Cloud%20Build%20%7C%20Artifact%20Registry%20%7C%20Cloud%20Run-4285F4?logo=googlecloud&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
